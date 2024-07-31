@@ -1,0 +1,14 @@
+
+li >a{
+    text-decoration: none;
+}
+#head{
+    background-color: bisque;
+    height: 50px;
+}
+
+#footer{
+    text-align: center;
+    padding: 30px;
+    background-color: gray;
+}
